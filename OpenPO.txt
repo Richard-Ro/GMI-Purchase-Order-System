@@ -1,0 +1,37 @@
+
+****** O P E N     O R D E R  ******
+
+Today's Date:  11-MAY-18                                                                                                
+
+Enter the Item Number: p1
+
+Item Description:  Pencil                                                                                               
+
+Current Inventory Level:  20                                                                                            
+
+Please select from one of the following Authorized Suppliers:
+
+S# SNAME        LOCATION        UnitPrice                                                                               
+-- ------------ -------------- ----------                                                                               
+s1 Staples      Portsmouth,VA       $2.00                                                                               
+s3 Office Max   Ames,IA             $3.00                                                                               
+
+Enter the Supplier Number: s1
+
+Supplier Name:  Staples                                                                                                 
+
+Address:  297 Brewery Road                                                                                              
+
+City, State Zip:  Portsmouth,Va                                                                                         
+
+Phone: (193) 472-0817                                                                                                   
+
+Enter Order Quantity: 12
+
+Unit Price:       $2.00                                                                                                 
+
+Amount Ordered:          $24.00                                                                                         
+
+***** Order Status:  Open                                                                                               
+
+****** Purchase Order number is ----->        1000                                                                      

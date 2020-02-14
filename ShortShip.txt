@@ -1,0 +1,11 @@
+
+****** SHORT SHIP Report ******
+
+
+Today's Date:  05/11/2018                                                                                               
+
+
+       PO# STATUS PODATE    P# PNAME          ORDERQTY    SHIPQTY   SHORTQTY S# SNAME                                   
+---------- ------ --------- -- ------------ ---------- ---------- ---------- -- ------------                            
+       995 Closed 02-JAN-18 p1 Pencil               11          4          7 s1 Staples                                 
+       997 Closed 02-MAR-18 p2 Paper                14          6          8 s4 Amazon                                  

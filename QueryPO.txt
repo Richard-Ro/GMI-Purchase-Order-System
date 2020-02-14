@@ -1,0 +1,33 @@
+
+****** Q U E R Y    O R D E R ******
+
+Please enter the Purchase Order Number: 995
+
+Purchase Order Number:         995                                                                                      
+
+Item Number:  p1                                                                                                        
+
+Item Description:  Pencil                                                                                               
+
+Current Inventory Level:          20                                                                                    
+
+Supplier Number:  s1                                                                                                    
+
+Supplier Name:  Staples                                                                                                 
+
+Date Ordered:  02-JAN-18                                                                                                
+
+
+Quantity Ordered:          11                                                                                           
+
+Date Received:  02-JUN-18                                                                                               
+
+Quantity Receieved:           4                                                                                         
+
+Unit Price:       $2.00                                                                                                 
+
+Amount Ordered:          $22.00                                                                                         
+
+Amount Due:       $8.00                                                                                                 
+
+Order Status:  Closed                                                                                                   

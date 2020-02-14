@@ -1,0 +1,14 @@
+
+****** PURCHASE ORDER AGING Report ******
+
+
+'TODAY''SDATE: TO_CHAR(SY                                                                                               
+-------------- ----------                                                                                               
+Today's Date:  05/11/2018                                                                                               
+
+Please enter number of days to query: 12
+
+       PO# STATUS PODATE    P# PNAME          ORDERQTY  UnitPrice S# SNAME          DAYSOPEN                            
+---------- ------ --------- -- ------------ ---------- ---------- -- ------------ ----------                            
+       996 Open   02-FEB-18 p1 Pencil               15      $3.00 s3 Office Max           98                            
+       998 Open   02-APR-18 p3 Magic Marker         13      $1.00 s2 Office Depot         39                            

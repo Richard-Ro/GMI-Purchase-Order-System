@@ -1,0 +1,39 @@
+
+****** R E C E I V E    O R D E R ******
+
+
+Today's Date:  11-MAY-18                                                                                                
+
+Please enter the Purchase Order Number: 1000
+
+Order Number:        1000                                                                                               
+
+Item Number:  p1                                                                                                        
+
+   Item Description:   Pencil                                                                                           
+
+Supplier Number: s1                                                                                                     
+
+   Supplier Name:  Staples                                                                                              
+
+Date ordered:  11-MAY-18                                                                                                
+
+Today's date:  11-MAY-18                                                                                                
+
+Quantity ordered:          12                                                                                           
+
+Unit Price:       $2.00                                                                                                 
+
+Amount Ordered:          $24.00                                                                                         
+
+Enter quantity received: 10
+
+Amount Due:         $20.00                                                                                              
+
+Inventory Level:            30                                                                                          
+
+*************************************
+
+Order is now --->  Closed                                                                                               
+
+Date Closed:  11-MAY-18                                                                                                 
